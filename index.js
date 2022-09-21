@@ -7,7 +7,7 @@ async function run_wasm() {
     let memory = wasmm.memory;
     const CELL_SIZE = 10; // px
     const GRID_COLOR = "#ffffff";
-    const DEAD_COLOR = "#22272E";
+    const DEAD_COLOR = "#0D1117";
     const ALIVE_COLOR = "#fe0ce9";
 
     // Construct the universe, and get its width and height.
