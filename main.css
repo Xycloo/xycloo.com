@@ -1,7 +1,7 @@
 
 html {
     font-family: 'Poppins', sans-serif;
-    background-color: #000000;
+    background-color: #22272E;
     color: white;
 
 }
@@ -44,7 +44,7 @@ html {
 }
 
 #projects {
-    background-color: #fe0ce9;
+    background-color: #d16ecf;
     max-height: 800px;
     text-align: center;
     padding-bottom: 100px;
@@ -76,7 +76,7 @@ html {
     max-width: 500px;
     margin-top: 80px;
     opacity: .9;
-    background-color: #000;
+    background-color: #22272E;
     padding: 20px;
     padding-top: 10px;
     border-radius: 20px;
@@ -107,7 +107,7 @@ a {
 #about {
     max-height: 800px;
     text-align: center;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 #about p {
@@ -115,6 +115,7 @@ a {
     margin: auto;
     max-width: 800px;
     text-align: left;
+    font-weight: 400;
 }
 
 #footer {
