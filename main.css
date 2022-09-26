@@ -1,7 +1,7 @@
 
 html {
     font-family: 'Poppins', sans-serif;
-    background-color: #eaeaea;
+    background-color: #fff;
     color: black;
 
 }
@@ -50,7 +50,7 @@ canvas {
 
 #projects {
     padding: 0;
-    background: #fff;
+    background: #eaeaea;
     max-height: 800px;
     max-width: 800px;
     margin: auto;
@@ -60,7 +60,7 @@ canvas {
 }
 
 .list-strong h5 {
-    color: #ffffff;
+    color: #eaeaea;
     text-align: center
     
 }
